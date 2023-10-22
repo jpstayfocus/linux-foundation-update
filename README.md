@@ -17,3 +17,6 @@ Terminal, Bash &amp; VIM Essentials
 - 2. To learn more about [OH MY ZSH](https://ohmyz.sh)
 
 - [An iTerm2 Cheatsheet](https://gist.github.com/squarism/ae3613daf5c01a98ba3a#tabs-and-windows)
+
+- ### useful commands
+- inline/ date
