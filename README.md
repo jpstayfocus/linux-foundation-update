@@ -12,7 +12,7 @@ Terminal, Bash &amp; VIM Essentials
 - The link above does not show how to install homebrew. Here's how you can install it:
 [Installing homebrew on mac](https://brew.sh)
 
-- Installing OH MY ZSH, a framework for zsh.
+### Installing OH MY ZSH, a framework for zsh.
 - 1. [Installation steps](https://github.com/ohmyzsh/ohmyzsh)
 - 2. To learn more about [OH MY ZSH](https://ohmyz.sh)
 
