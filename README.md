@@ -16,3 +16,4 @@ Terminal, Bash &amp; VIM Essentials
 - 1. [Installation steps](https://github.com/ohmyzsh/ohmyzsh)
 - 2. To learn more about [OH MY ZSH](https://ohmyz.sh)
 
+- [An iTerm2 Cheatsheet](https://gist.github.com/squarism/ae3613daf5c01a98ba3a#tabs-and-windows)
