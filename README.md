@@ -19,4 +19,5 @@ Terminal, Bash &amp; VIM Essentials
 - [An iTerm2 Cheatsheet](https://gist.github.com/squarism/ae3613daf5c01a98ba3a#tabs-and-windows)
 
 - ### useful Apple macOS commands line [here](https://ss64.com/osx/)
+- basic folder operations in mac ; [command line](https://appletoolbox.com/navigate-folders-using-the-mac-terminal/)
 
