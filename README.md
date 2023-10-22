@@ -20,7 +20,7 @@ Terminal, Bash & VIM Essentials
 
 - [An iTerm2 Cheatsheet](https://gist.github.com/squarism/ae3613daf5c01a98ba3a#tabs-and-windows)
 
-- ### useful Apple macOS commands line [here](https://ss64.com/osx/)
+### useful Apple macOS commands line [here](https://ss64.com/osx/)
 - basic folder operations in mac ; [command line](https://appletoolbox.com/navigate-folders-using-the-mac-terminal/)
 - 5 linux commands to [view the content](https://linuxhandbook.com/view-file-linux/) inside a file
 - see [directory tree structure](https://www.cyberciti.biz/faq/linux-show-directory-structure-command-line/) in linux or iterm2 (mac) 
