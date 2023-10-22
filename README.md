@@ -1,5 +1,7 @@
 # linux-foundation-update
-Terminal, Bash &amp; VIM Essentials
+Terminal, Bash & VIM Essentials
+
+## Terminal and Shell
 
 ### Installing zsh using Iterm2 (macOS), link to download is [here](https://iterm2.com)
 - Difference between bash and zsh (useful if you are using your own machine)
@@ -22,3 +24,5 @@ Terminal, Bash &amp; VIM Essentials
 - basic folder operations in mac ; [command line](https://appletoolbox.com/navigate-folders-using-the-mac-terminal/)
 - 5 linux commands to [view the content](https://linuxhandbook.com/view-file-linux/) inside a file
 
+
+## VIM
