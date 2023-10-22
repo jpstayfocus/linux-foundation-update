@@ -10,6 +10,6 @@ Terminal, Bash &amp; VIM Essentials
 
 - Step by steps installation can be found [here](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 - The link above does not show how to install homebrew. Here's how you can install it:
-[Installing homebrew on terminal](https://brew.sh)
+[Installing homebrew on mac](https://brew.sh)
 
 
