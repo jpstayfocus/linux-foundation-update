@@ -6,5 +6,7 @@ Terminal, Bash &amp; VIM Essentials
   - Bash is the default shell for Linux and MacOs and it is released in the replacement of Bourne Shell.
   - Zsh shell is built on top of the bash shell and is an extended version of the bash with plenty of new features.
   - [Bash Scripting – Difference between Zsh and Bash](https://www.geeksforgeeks.org/bash-scripting-difference-between-zsh-and-bash/)
- 
+
+
+- Step by steps installation can be found [here](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 
