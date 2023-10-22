@@ -23,7 +23,9 @@ Terminal, Bash & VIM Essentials
 ### useful Apple macOS commands line [here](https://ss64.com/osx/)
 - basic folder operations in mac ; [command line](https://appletoolbox.com/navigate-folders-using-the-mac-terminal/)
 - 5 linux commands to [view the content](https://linuxhandbook.com/view-file-linux/) inside a file
-- see [directory tree structure](https://www.cyberciti.biz/faq/linux-show-directory-structure-command-line/) in linux or iterm2 (mac) 
+- see [directory tree structure](https://www.cyberciti.biz/faq/linux-show-directory-structure-command-line/) in linux or iterm2 (mac)
+
+- search for file from the linux command line ["find"](https://www.freecodecamp.org/news/how-to-search-for-files-from-the-linux-command-line/)
 
 
 ## VIM
