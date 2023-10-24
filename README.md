@@ -26,6 +26,10 @@ Terminal, Bash & VIM Essentials
 - see [directory tree structure](https://www.cyberciti.biz/faq/linux-show-directory-structure-command-line/) in linux or iterm2 (mac)
 
 - search for file from the linux command line ["find"](https://www.freecodecamp.org/news/how-to-search-for-files-from-the-linux-command-line/)
+- [Grep command](https://phoenixnap.com/kb/grep-command-linux-unix-examples)
+  - Grep stand for global regular expression print.
+  - It is ussed to search text within files.
+  - [regular expression](https://www3.ntu.edu.sg/home/ehchua/programming/howto/Regexe.html), def: It is simply a sequence of character that defines a search pattern
 
 
 ## VIM
