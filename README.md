@@ -39,6 +39,7 @@ Terminal, Bash & VIM Essentials
 - [curl command](https://www.geeksforgeeks.org/curl-command-in-linux-with-examples/) command-line tool for getting or sending data including files using URL syntax
 - [Getting started with VIM](https://www.geeksforgeeks.org/getting-started-with-vim-editor-in-linux/)
     - [!Note] I will be creating a wiki soon to give more detailed for beginers like me on how to use Vim.
+    - [VIM cheat sheet](https://vim.rtorr.com)
   
 
 
