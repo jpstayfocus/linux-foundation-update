@@ -33,3 +33,28 @@ Terminal, Bash & VIM Essentials
 
 
 ## VIM
+
+- [Difference between text editor VIM vs VI](https://www.shell-tips.com/linux/vi-vs-vim/#gsc.tab=0)
+   - Vim has more features, improve version of VI. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
