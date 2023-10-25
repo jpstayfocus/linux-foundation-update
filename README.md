@@ -36,7 +36,7 @@ Terminal, Bash & VIM Essentials
 
 - [Difference between text editor VIM vs VI](https://www.shell-tips.com/linux/vi-vs-vim/#gsc.tab=0)
    - Vim has more features, improve version of VI.
-- [curl command](https://phoenixnap.com/kb/curl-command#:~:text=curl%20(short%20for%20%22Client%20URL,client%2Dside%20URL%20transfer%20library.) command-line tool for getting or sending data including files using URL syntax
+- [curl command](https://www.geeksforgeeks.org/curl-command-in-linux-with-examples/) command-line tool for getting or sending data including files using URL syntax
   
 
 
